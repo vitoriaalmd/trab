@@ -6,4 +6,6 @@ O projeto facilita o trabalho dos funcionários da secretaria escolar, auxiliand
 </h4>
 
 # :hammer: Funcionalidades do projeto
- facilita o trabalho dos funcionários da secretaria escolar, auxiliando para que os mesmos poupem o tempo que usariam passando todas as informações para documentos em papéis. Além de facilitar o acesso em diferentes locais  e deixar livre o espaço que seriam ocupados pela papelada, já que estará tudo registrado no Banco de dados.
+ - `Funcionalidade 1`: Facilitar o trabalho dos funcionários da secretaria escolar, auxiliando para que os mesmos poupem o tempo que usariam passando todas as informações para documentos em papéis. 
+- `Funcionalidade 2`: Facilitar o acesso em diferentes locais e deixar livre o espaço que seriam ocupados pela papelada, já que estará tudo registrado no Banco de dados.
+
