@@ -23,5 +23,8 @@ Foram utilizadas linguagens de programação tais como: PHP, Java Script, HTML, 
 Destaca-se na área da saúde, proporcionando uma melhoria para a escola, evitando o gasto de tempo manual, tendo um acesso online, fácil e rápido, para monitorar e obter informações sobre a ficha de saúde se cada aluno, onde seriam evitadas coisas importunas, como crises alérgicas a comidas em específicas, que seriam citadas em cada documento do estudante.
 
 # Pessoas Desenvolvedoras do Projeto 
-| [<img src="https://avatars.githubusercontent.com/u/105250635?v=4" width=115><br><sub>Letícia Lima</sub>](https://github.com/lettxys) |  [<img src="https://avatars.githubusercontent.com/u/102759939?v=4" width=115><br><sub>Lunna Evellyn</sub>](https://github.com/lunnaev) |  [<img src="https://avatars.githubusercontent.com/u/108244185?v=4 " width=115><br><sub>Manuela Aurélio</sub>](https://github.com/mavaur) |   [<img src="https://avatars.githubusercontent.com/u/102155572?v=4" width=115><br><sub>Vitória Almeida</sub>](https://github.com/vitoriaalmd) |
-| :---: | :---: | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/105250635?v=4" width=115><br><sub>Letícia Lima</sub>](https://github.com/lettxys) |  [<img src="https://avatars.githubusercontent.com/u/116517889?v=4" width=115><br><sub>Lunna Evellyn</sub>](https://github.com/lunnaev) |  [<img src="https://avatars.githubusercontent.com/u/108244185?v=4 " width=115><br><sub>Manuela Aurélio</sub>](https://github.com/mavaur) |   [<img src="https://avatars.githubusercontent.com/u/108244185?v=4 " width=115><br><sub>José Gabriel</sub>](https://github.com/gaabvitti) |   [<img src="https://avatars.githubusercontent.com/u/102155572?v=4" width=115><br><sub>Vitória Almeida</sub>](https://github.com/vitoriaalmd) |   [<img src="https://pps.whatsapp.net/v/t61.24694-24/287101157_1198064614385165_4763803507377592480_n.jpg?ccb=11-4&oh=01_AdT0lGnTqYRysPM4cPkrguy4hnqGhhAgjw86TIL5mN-ZdA&oe=644D9025" width=115><br><sub>Ludmylle</sub>](https://github.com/) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+
+
+
