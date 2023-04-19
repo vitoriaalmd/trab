@@ -15,3 +15,9 @@ Foram utilizadas linguagens de programação tais como: PHP, Java Script, HTML, 
 - O PHP foi utilizado para administração e inserção de dados do site.
 - O Java Script como a linguagem de programação mais estruturada, executando o funcionamento do site. Sendo visto como a parte "Racional" do site.
 - HTML e CSS: Ambos não são considerados linguagens de programação, pois não podem criar funcionalidades proativas. No entanto, sem os mesmos o site não fica organizado e a experiência do usuário será comprometida.
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" width="40"> </img> 
+
+
+# Motivos pelo qual foi criado
+Destaca-se na área da saúde, proporcionando uma melhoria para a escola, evitando o gasto de tempo manual, tendo um acesso online, fácil e rápido, para monitorar e obter informações sobre a ficha de saúde se cada aluno, onde seriam evitadas coisas importunas, como crises alérgicas a comidas em específicas, que seriam citadas em cada documento do estudante.
